@@ -23,7 +23,7 @@ marketing:
   analytics:
     google_analytics: 'G-JLNSY274NY'
     baidu_tongji: ''
-    google_tag_manager: ''
+    google_tag_manager: 'G-JLNSY274NY'
     microsoft_clarity: ''
   verification:
     google: ''

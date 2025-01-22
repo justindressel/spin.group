@@ -32,5 +32,5 @@ main:
     url: publication
     weight: 50
   - name: Contact PI
-    url: authors/justin-dressel
+    url: author/justin-dressel
     weight: 60

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Daniel Briseno
+title: D. Dominic Briseno-Colunga
 
 # Role/position
 role: Graduate Student

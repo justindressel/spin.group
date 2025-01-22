@@ -13,6 +13,7 @@ content:
     category: ''
     publication_type: ''
     author: ''
+    featured_only: true
     exclude_featured: false
     exclude_future: false
     exclude_past: false

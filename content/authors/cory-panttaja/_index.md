@@ -1,4 +1,3 @@
----
 # Display name
 title: Cory Panttaja
 
@@ -64,4 +63,6 @@ user_groups:
 #- Undergraduate Alumni
 ---
 
-Cory is a first year physics major at Chapman University, with interest in theoretical physics and cosmology, as well as particapting heavily in the arts, such as theatre, painting, and singing. With physics as well as their artistic pursuits they hope to better understand our world and how we live in it as a global community.   
+Cory is a second year physics and philosphy major at Chapman University with a minor in Spanish, with interest in theoretical physics and cosmology, as well as particapting heavily in the arts. With physics as well as their artistic pursuits they hope to better understand our world and how we live in it as a global community.   
+
+

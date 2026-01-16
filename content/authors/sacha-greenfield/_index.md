@@ -18,17 +18,13 @@ affiliations:
 - url: "https://www.dornsife.usc.edu/labs/lfl"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Just a human being doing quantum physics.
+bio: 
 
 interests:
-- Superconducting qubits
-- Quantum information / computation
-- Weak measurement feedback
-- Quantum devices
-- Julia and Pluto
-- Buddhism
-- Hiking
-- Dancing
+- Superconducting quantum computation
+- Weak measurement
+- Quantum feedback and control
+- Quantum Zeno effect
 
 education:
   courses:
@@ -56,4 +52,4 @@ user_groups:
 #- Visitors
 ---
 
-I'm currently a graduate student at USC, working jointly between the groups of Dr. Justin Dressel at Chapman and Dr. Eli Levenson-Falk at USC. I am interested in understanding the fundamentals of quantum measurement through weak measurement feedback experiments. I am interested in how observing really "weird" dynamics in real experiments could clarify foundational questions in quantum mechanics. When I'm not doing physics, you'll probably find me doing Zen Buddhist stuff, learning to dance, and trying to maintain my sanity during corona.
+Sacha is a PhD student working jointly between the groups of Dr. Justin Dressel at Chapman and Dr. Eli Levenson-Falk at USC. They work on understanding the foundations of quantum weak measurements and applying these principles to quantum control, error suppression, and error correction. 

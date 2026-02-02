@@ -3,7 +3,7 @@
 title: Tatsuya Daniel
 
 # Role/position
-role: Graduate Student (Co-advised by [Dr. Stephon Alexander (Brown U)](https://stephonalexanderlab.com))
+role: (2020-2025) | Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -16,7 +16,7 @@ affiliations:
   url: "https://stephonalexanderlab.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Graduate Student in Astrophysics and Cosmology
+bio: Postdoctoral Research Associate
 
 interests:
 - Astrophysics
@@ -48,9 +48,9 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 #- Researchers
-- Graduate Students
+- Graduate Alumni
 #- Undergraduate Students
 #- Visitors
 ---
 
-Tatsuya Daniel is a first year graduate student in the Department of Physics at Brown University with an interest in Astro-Cosmo theory. He just completed his undergraduate studies at MIT. His past and current research projects include topics on star formation, chemical enrichment and feedback, galactic dynamics, as well as atomic and molecular alignment and studying magnetic fields in diffuse media."
+Tatsuya Daniel completed his Ph.D. in Physics at Brown University in 2025 under the advisement of Dr. Stephon Alexander with a focus on Astro-Cosmo theory. He completed his undergraduate studies at MIT. His past and current research projects include topics on star formation, chemical enrichment and feedback, galactic dynamics, as well as atomic and molecular alignment and studying magnetic fields in diffuse media.

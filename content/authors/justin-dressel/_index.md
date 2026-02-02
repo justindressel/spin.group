@@ -62,9 +62,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-7216-1581
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Justin_Dressel2
+#- icon: researchgate
+#  icon_pack: ai
+#  link: https://www.researchgate.net/profile/Justin_Dressel2
 - icon: github
   icon_pack: fab
   link: https://github.com/justindressel
